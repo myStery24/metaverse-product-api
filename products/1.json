@@ -1,0 +1,20 @@
+{
+  "name": "xiaomi mi wi-fi range extender pro (black)",
+  "description": "2x2 external antenna with enhanced Wi-Fi coverage.",
+  "order": 1,
+  "price": 59,
+  "url": "https://www.gloo.com.my/brands-store/mi/Mi-WiFi-Range-Extender-Pro-Black",
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-wi-fi-range-extender-pro-black.png"
+  },
+  "categories": [
+    {
+      "brand": "xiaomi",
+      "url": "https://www.gloo.com.my/brands-store/mi/"
+    },
+    {
+      "product_code": "Mi Wi-Fi Range Extender Pro ROUXIAMWIFIPBK",
+      "url": "https://www.gloo.com.my/brands-store/mi/Mi-WiFi-Range-Extender-Pro-Black"
+    }
+  ]
+}
