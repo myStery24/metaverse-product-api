@@ -13,16 +13,22 @@
     "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Gadget/ROUXIAMWIFIPBK_T10-1000x1000.jpg",
     "side_transparent": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-wi-fi-range-extender-pro-black.png"
   },
-  "others": [
+  "brands": [
     {
       "slot": 1,
-      "brand": "xiaomi",
-      "url": "https://www.gloo.com.my/brands-store/mi/"
-    },
+      "brand": {
+        "name": "xiaomi",
+        "url": "https://www.gloo.com.my/brands-store/mi/"
+      }
+    }
+  ],
+  "product_codes": [
     {
-      "slot": 2,
-      "product_code": "Mi Wi-Fi Range Extender Pro ROUXIAMWIFIPBK",
-      "url": "https://www.gloo.com.my/brands-store/mi/Mi-WiFi-Range-Extender-Pro-Black"
+      "slot": 1,
+      "product_code": {
+        "code": "Mi Wi-Fi Range Extender Pro ROUXIAMWIFIPBK",
+        "url": "https://www.gloo.com.my/brands-store/mi/Mi-WiFi-Range-Extender-Pro-Black"
+      }
     }
   ],
   "catalog_img": "https://www.gloo.com.my/image/catalog/Landing%20Page/Gadget/ROUXIAMWIFIPBK_LP.jpg"
