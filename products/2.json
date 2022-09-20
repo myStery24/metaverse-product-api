@@ -13,16 +13,22 @@
     "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T5-1000x1000.jpg",
     "side_transparent": null
   },
-  "others": [
+  "brands": [
     {
       "slot": 1,
-      "brand": "samsung",
-      "url": "https://www.gloo.com.my/brands-store/samsung"
-    },
+      "brand": {
+        "name": "samsung",
+        "url": "https://www.gloo.com.my/brands-store/samsung"
+      }
+    }
+  ],
+  "product_codes": [
     {
-      "slot": 2,
-      "product_code": "LC27F390FHEXXM MONSAMS27F390F",
-      "url": "https://www.gloo.com.my/27-monitor-27F390F"
+      "slot": 1,
+      "product_code": {
+        "code": "LC27F390FHEXXM MONSAMS27F390F",
+        "url": "https://www.gloo.com.my/27-monitor-27F390F"
+      }
     }
   ],
   "catalog_img": "https://www.gloo.com.my/image/catalog/Landing%20Page/Pcpart/MONSAMS27F390F_LP.jpg"
