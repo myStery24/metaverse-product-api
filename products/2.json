@@ -1,0 +1,29 @@
+{
+  "index": 2,
+  "id": "632923d08f01cd79317fa87c",
+  "guid": "585280e5-d0f7-4c8c-802f-539af42d99ad",
+  "name": "Samsung 27' Curve Monitor LC27F390FHEXXM",
+  "description": "The most immersive viewing experience with world's most curved screen\n Incrediby vibrant and darker blacks with bestinclass 3000:1 contrast ratio\n Smooth game play with AMD Freesync and Game mode",
+  "price": 629,
+  "url": "https://www.gloo.com.my/27-monitor-27F390F",
+  "sprites": {
+    "all_default": null,
+    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T4-1000x1000.jpg",
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T1-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T5-1000x1000.jpg",
+    "side_transparent": null
+  },
+  "others": [
+    {
+      "slot": 1,
+      "brand": "samsung",
+      "url": "https://www.gloo.com.my/brands-store/samsung"
+    },
+    {
+      "slot": 2,
+      "product_code": "LC27F390FHEXXM MONSAMS27F390F",
+      "url": "https://www.gloo.com.my/27-monitor-27F390F"
+    }
+  ],
+  "catalog_img": "https://www.gloo.com.my/image/catalog/Landing%20Page/Pcpart/MONSAMS27F390F_LP.jpg"
+}
