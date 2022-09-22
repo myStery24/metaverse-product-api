@@ -1,36 +1,42 @@
 {
-  "index": 0001,
+  "index": "0001",
   "product_id": null,
+  "product_code": "ROUXIAMWIFIPBK",
+  "is_hidden": false,
   "quantity": null,
-  "guid": null,
   "name": "xiaomi mi wi-fi range extender pro (black)",
-  "description": "Mi Wi-Fi Range Extender Pro connects to your router wirelessly, strengthening and expanding its signal to every corner of the home. Now comes with a 2x2 external antenna to maintain a transmission rate of 300Mbps.",
-  "price": 59.00,
+  "description": "Mi Wi-Fi Range Extender Pro connects to your router wirelessly, strengthening and expanding its signal to every corner of the home. Now comes with a 2x2 external antenna to maintain a transmission rate of 300Mbps.\n\nProduct Specifications:\n• ROM: 2MB\n• RAM: 8MB\n• Antenna Type: 2 external antennas\n• Wireless Standards: IEEE 802.11b/g/n\n• Signal Rate: 2.4 GHz, up to 300 Mbps",
   "url": "https://www.gloo.com.my/brands-store/mi/Mi-WiFi-Range-Extender-Pro-Black",
   "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-wi-fi-range-extender-pro-black.png",
     "all_default": "https://www.gloo.com.my/image/cache/catalog/Images/Gadget/ROUXIAMWIFIPBK_T12-1000x1000.jpg",
     "back_default": null,
     "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Gadget/ROUXIAMWIFIPBK_T11-1000x1000.jpg",
-    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Gadget/ROUXIAMWIFIPBK_T10-1000x1000.jpg",
-    "side_transparent": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-wi-fi-range-extender-pro-black.png"
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Gadget/ROUXIAMWIFIPBK_T10-1000x1000.jpg"
   },
-  "brands": [
+  "prices": [
     {
       "slot": 1,
-      "brand": {
-        "name": "xiaomi",
-        "url": "https://www.gloo.com.my/brands-store/mi/"
+      "price": {
+        "name": "srp",
+        "value": "59.00"
+      }
+    },
+    {
+      "slot": 2,
+      "price": {
+        "name": "promo price",
+        "value": "59.00"
       }
     }
   ],
-  "product_codes": [
+  "brand": "xiaomi",
+  "colour": "black",
+  "warranty": [
     {
-      "slot": 1,
-      "product_code": {
-        "code": "ROUXIAMWIFIPBK",
-        "url": "https://www.gloo.com.my/brands-store/mi/Mi-WiFi-Range-Extender-Pro-Black"
-      }
+      "type": "local manufacturer warranty",
+      "period": "1 year"
     }
   ],
-  "catalog_img": "https://www.gloo.com.my/image/catalog/Landing%20Page/Gadget/ROUXIAMWIFIPBK_LP.jpg"
+  "catalogue_img": "https://www.gloo.com.my/image/catalog/Landing%20Page/Gadget/ROUXIAMWIFIPBK_LP.jpg"
 }
