@@ -1,0 +1,51 @@
+{
+  "_id": 3,
+  "index": "0003",
+  "product_id": null,
+  "product_code": "Mi TV P1 MONXIAMIP143TV",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi mi tv p1 43\"",
+  "description": "Product Features:\n• Bezel-less design for a unique viewing experience\n• 360° Bluetooth remote control that works from any direction\n• Connect multiple devices for more entertainment\n• Quad-core processors for greater possibilities, 2GB + 16GB storage setup\n• Dolby Audio®and DTS-HD® decoding for powerful 3D sound\n• Supports wall mounting\n\nProduct Specification:\n• Display Type: Limitless 4K display, MEMC\n• Resolution: 3,840 x 2,160\n• Operating system: Android TV™ 10\n• Color gamut: NTSC 72%(typ), DCI-P3 78%(typ), BT709 95%(typ)\n• Color depth: 1.07 billion (8-Bit + FRC)\n• Refresh rate: 60Hz\n• Viewing angle: 178°(H)/178°(V)\n• Sound Technology: Dolby Audio, DTS-HD\n• Bluetooth 5.0 + Wi-Fi 2.4GHz/5GHz\n• Processor: MediaTek MT9611\n• Power: 105W\n• Voltage: 100-240V ~ 50/60Hz",
+  "srp": "1,799.00",
+  "promo_price": "1,499.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "xiaomi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "MONXIAMIP143TV"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "1 year local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/Xiaomi-Mi-TV-P1-43-inch",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-tv-p1-43-inch.png",
+    "all_default": null,
+    "back_default": null,
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/MONXIAMIP143TV_T1-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/MONXIAMIP143TV_T3-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/MONXIAMIP143TV_LP.png"
+  }
+}
