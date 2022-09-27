@@ -6,7 +6,7 @@
   "is_hidden": false,
   "quantity": null,
   "name": "xiaomi smart air purifier 4",
-  "description": "All-day protection for those who suffer from rhinitis and allergies. Xiaomi Smart Air Purifier 4 protects your respiratory health by keeping the air in your home clean and safe to breathe.\n\nProduct Features:\n• Effective coverage area: 28-48m²\n• PM CADR: 400m³/h\n• Particle purification efficiency: High\n• 20m² large room purification in approx. 10 minutes\n• Smart control\n• OLED display",
+  "description": "All-day protection for those who suffer from rhinitis and allergies. Xiaomi Smart Air Purifier 4 protects your respiratory health by keeping the air in your home clean and safe to breathe.\n\nProduct Features:\n• Effective coverage area: 28-48m²\n• PM CADR: 400m³/h\n• Particle purification efficiency: High\n• 20m² large room purification in approx. 10 minutes\n• Smart control\n• OLED display\n\nPackage Contents:\n• Xiaomi Smart Air Purifier 4 x1\n• Filter x1\n• User manual x1\n• Power cable x1",
   "srp": "799.00",
   "promo_price": "799.00",
   "specs": [
@@ -42,7 +42,6 @@
   "url": "https://www.gloo.com.my/Itworld/Xiaomi-Smart-Air-Purifier-4",
   "sprites": {
     "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-smart-air-purifier-4.png",
-    "all_default": null,
     "back_default": null,
     "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMAMIPUR4_T1-1000x1000.jpg",
     "side_default": null,
