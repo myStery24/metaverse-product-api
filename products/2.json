@@ -2,19 +2,19 @@
   "_id": 2,
   "index": "0002",
   "product_id": null,
-  "product_code": "LC27F390FHEXXM MONSAMS27F390F",
+  "product_code": "Mi TV P1 MONXIAMIP143TV",
   "is_hidden": false,
   "quantity": null,
-  "name": "samsung 27\" curve monitor LC27F390FHEXXM",
-  "description": "The most immersive viewing experience with world's most curved screen -  Wrapping around your field of vision like your local iMax theater screen. Whether it is an online movie, a favourite TV show, or a pulse-racing game, Samsung's deeper screen curve will fully immerse you in all your multi-media content.\n\nProduct Specifications:\n• Display Flat / Curved: Curved\n• Active Display Size (HxV) (mm): 597.89mm x 336.31mm\n• Screen Curvature: 1800R\n• Aspect Ratio: 16:9\n• Panel Type: VA\n• Brightness (Typical): 250cd/m2\n• Brightness (Min): 200cd/m2\n• Contrast Ratio Static: 3,000:1(Typ.)\n• Dynamic Contrast Ratio: Mega\n• Resolution: 1920 x 1080\n• Response Time: 4(GTG)\n• Refresh Rate: 60Hz",
-  "srp": "769.00",
-  "promo_price": "629.00",
+  "name": "xiaomi mi tv p1 43\"",
+  "description": "Product Features:\n• Bezel-less design for a unique viewing experience\n• 360° Bluetooth remote control that works from any direction\n• Connect multiple devices for more entertainment\n• Quad-core processors for greater possibilities, 2GB + 16GB storage setup\n• Dolby Audio®and DTS-HD® decoding for powerful 3D sound\n• Supports wall mounting\n\nProduct Specification:\n• Display Type: Limitless 4K display, MEMC\n• Resolution: 3,840 x 2,160\n• Operating system: Android TV™ 10\n• Color gamut: NTSC 72%(typ), DCI-P3 78%(typ), BT709 95%(typ)\n• Color depth: 1.07 billion (8-Bit + FRC)\n• Refresh rate: 60Hz\n• Viewing angle: 178°(H)/178°(V)\n• Sound Technology: Dolby Audio, DTS-HD\n• Bluetooth 5.0 + Wi-Fi 2.4GHz/5GHz\n• Processor: MediaTek MT9611\n• Power: 105W\n• Voltage: 100-240V ~ 50/60Hz",
+  "srp": "1,799.00",
+  "promo_price": "1,499.00",
   "specs": [
     {
       "slot": 1,
       "spec": {
         "column": "brand",
-        "value": "samsung"
+        "value": "xiaomi"
       }
     },
     {
@@ -28,24 +28,24 @@
       "slot": 3,
       "spec": {
         "column": "seller-sku",
-        "value": "MONSAMS27F390F"
+        "value": "MONXIAMIP143TV"
       }
     },
     {
       "slot": 4,
       "spec": {
         "column": "warranty",
-        "value": "local manufacturer warranty"
+        "value": "1 year local manufacturer warranty"
       }
     }
   ],
-  "url": "https://www.gloo.com.my/pc-part/monitor/27-monitor-27F390F",
+  "url": "https://www.gloo.com.my/Xiaomi-Mi-TV-P1-43-inch",
   "sprites": {
-    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/samsung-27-inch-curve-monitor-LC27F390FHEXXM.png",
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-tv-p1-43-inch.png",
     "all_default": null,
-    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T4-1000x1000.jpg",
-    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T1-1000x1000.jpg",
-    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T5-1000x1000.jpg",
-    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Pcpart/MONSAMS27F390F_LP.jpg"
+    "back_default": null,
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/MONXIAMIP143TV_T1-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/MONXIAMIP143TV_T3-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/MONXIAMIP143TV_LP.png"
   }
 }
