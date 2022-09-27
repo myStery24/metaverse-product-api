@@ -2,13 +2,13 @@
   "_id": 3,
   "index": "0003",
   "product_id": null,
-  "product_code": "Mi TV P1 MONXIAMIP143TV",
+  "product_code": "Purifier 4 ELEXIAMAMIPUR4",
   "is_hidden": false,
   "quantity": null,
-  "name": "xiaomi mi tv p1 43\"",
-  "description": "Product Features:\n• Bezel-less design for a unique viewing experience\n• 360° Bluetooth remote control that works from any direction\n• Connect multiple devices for more entertainment\n• Quad-core processors for greater possibilities, 2GB + 16GB storage setup\n• Dolby Audio®and DTS-HD® decoding for powerful 3D sound\n• Supports wall mounting\n\nProduct Specification:\n• Display Type: Limitless 4K display, MEMC\n• Resolution: 3,840 x 2,160\n• Operating system: Android TV™ 10\n• Color gamut: NTSC 72%(typ), DCI-P3 78%(typ), BT709 95%(typ)\n• Color depth: 1.07 billion (8-Bit + FRC)\n• Refresh rate: 60Hz\n• Viewing angle: 178°(H)/178°(V)\n• Sound Technology: Dolby Audio, DTS-HD\n• Bluetooth 5.0 + Wi-Fi 2.4GHz/5GHz\n• Processor: MediaTek MT9611\n• Power: 105W\n• Voltage: 100-240V ~ 50/60Hz",
-  "srp": "1,799.00",
-  "promo_price": "1,499.00",
+  "name": "xiaomi smart air purifier 4",
+  "description": "All-day protection for those who suffer from rhinitis and allergies. Xiaomi Smart Air Purifier 4 protects your respiratory health by keeping the air in your home clean and safe to breathe.\n\nProduct Features:\n• Effective coverage area: 28-48m²\n• PM CADR: 400m³/h\n• Particle purification efficiency: High\n• 20m² large room purification in approx. 10 minutes\n• Smart control\n• OLED display",
+  "srp": "799.00",
+  "promo_price": "799.00",
   "specs": [
     {
       "slot": 1,
@@ -21,14 +21,14 @@
       "slot": 2,
       "spec": {
         "column": "colour-family",
-        "value": "black"
+        "value": "white"
       }
     },
     {
       "slot": 3,
       "spec": {
         "column": "seller-sku",
-        "value": "MONXIAMIP143TV"
+        "value": "ELEXIAMAMIPUR4"
       }
     },
     {
@@ -39,13 +39,13 @@
       }
     }
   ],
-  "url": "https://www.gloo.com.my/Xiaomi-Mi-TV-P1-43-inch",
+  "url": "https://www.gloo.com.my/Itworld/Xiaomi-Smart-Air-Purifier-4",
   "sprites": {
-    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-tv-p1-43-inch.png",
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-smart-air-purifier-4.png",
     "all_default": null,
     "back_default": null,
-    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/MONXIAMIP143TV_T1-1000x1000.jpg",
-    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/MONXIAMIP143TV_T3-1000x1000.jpg",
-    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/MONXIAMIP143TV_LP.png"
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMAMIPUR4_T1-1000x1000.jpg",
+    "side_default": null,
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/ELEXIAMAMIPUR4_LP01.jpg"
   }
 }
