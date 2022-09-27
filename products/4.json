@@ -6,7 +6,7 @@
   "is_hidden": false,
   "quantity": null,
   "name": "xiaomi motion activated night light 2",
-  "description": "3-in-1 smart light for lighting, motion detection and light detection.\n\nProduct Features:\n• Portable or standalone, Shine extra light wherever you need it\n• Innovate magnetic attraction design warm, soft light in the palm of your hand.\n• Rotates 360° for diffuse lighting.\n• Two adjustable brightness settings* - Low for soft, gentle lighting and High for bright, clear lighting\n• Ultra-low power consumption, Works for up to 360 days without charging\n• Built-in dual-sensor, 120° wide sensing area\n• 2800K warm yellow light, no visible flicker, no harmful blue light, Enhanced eye protection",
+  "description": "3-in-1 smart light for lighting, motion detection and light detection.\n\nProduct Features:\n• Portable or standalone, Shine extra light wherever you need it\n• Innovate magnetic attraction design warm, soft light in the palm of your hand.\n• Rotates 360° for diffuse lighting.\n• Two adjustable brightness settings* - Low for soft, gentle lighting and High for bright, clear lighting\n• Ultra-low power consumption, Works for up to 360 days without charging\n• Built-in dual-sensor, 120° wide sensing area\n• 2800K warm yellow light, no visible flicker, no harmful blue light, Enhanced eye protection\n\nPackage Contents:\n• Mi Motion Activated Night Light 2 x1",
   "srp": "59.00",
   "promo_price": "59.00",
   "specs": [
@@ -42,7 +42,6 @@
   "url": "https://www.gloo.com.my/Mi-Motion-Activated-Night-Light-2",
   "sprites": {
     "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-motion-activated-night-light-2.png",
-    "all_default": null,
     "back_default": null,
     "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMMACTNL2_T11-1000x1000.jpg",
     "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMMACTNL2_T10-1000x1000.jpg",
