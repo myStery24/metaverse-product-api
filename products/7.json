@@ -1,0 +1,50 @@
+{
+  "_id": 7,
+  "index": "0007",
+  "product_id": null,
+  "product_code": "6934177707452 HOUXIAM7707452",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi mi body composition scale 2",
+  "description": "Product Features:\n• LED display\n• Tempered glass\n• G-shaped sensor, 50g can be perceived\n• Dynamic weighing, static weighing, a dual-use\n• Supports switching of three units of jin, kilograms and pounds for easy reading.\n• 13 precise data points measurements to fully understand your physical condition\n• Low power Bluetooth 5.0, 4 batteries can be used for 12 months.\n• Highly accurate BIA chip for easy understanding of body fat percentage.\n• Balance test, close your eyes and stand on the Xiaomi 2.0 body fat scale, you can know your ability to balance.\n• Syncs your data to Mi Fit App to track your progress and take control of your activities.\n• Use the science fitness tutorial of Xiaomi Sports App to customize the training course to help you lose weight and shape your body.\n\nProduct Specifications:\n• External Dimension: 300 x 300 x 20mm\n• Weight: 1.6kg\n• Material: ABS\n• Units: catties, kilograms, pounds (switchable)\n• Battery: 4 AAA batteries\n• Requirements for Equipment:\nAndroid 4.4 / iOS 8.0 and above, Bluetooth 4.0\n\nPackage Contents:\n• Mi Body Composition Scale 2 x1",
+  "srp": "119.00",
+  "promo_price": "119.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "mi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "HOUXIAM7707452"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "1 year local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.mi.com/global/product/xiaomi-smart-pet-fountain/",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-body-composition-scale-2.png",
+    "back_default": null,
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/HOUXIAMBOCOSCA_T12-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/HOUXIAMBOCOSCA_T10-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Gadget/HOUXIAMBOCOSCA_LP.jpg\n"
+  }
+}

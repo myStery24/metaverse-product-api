@@ -1,0 +1,50 @@
+{
+  "_id": 9,
+  "index": "0009",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "mi led desk lamp 1s MJTD01SYL",
+  "description": "Product Features:\n• 4 lighting modes\n• Voice control using Alexa, Google Assistant and Siri\n• Built-in dial knob for adjusting light colour temperature and brightness (Press, Turn, Press and turn, Double press)\n\nProduct Specifications:\n• External Dimension: 445 x 445 x 150mm\n• Brightness range: 1%-100%\n• Colour Range: 2600K - 5000K\n• Luminous Flux: 520 lm\n• Colour Rendering Index: Ra 90\n• Lamp Input 12V 0.8A\n• Service Life: Approximately 25,000 hours\n• Wireless Connectivity: Wi-Fi IEEE 802.11 b/g/n 2.4 GHz\n• Requirements for Equipment: Android 4.4 / iOS 9.0 and above\n\nPackage Contents:\n• Mi LED Desk Lamp x1\n• Adapter x1\n• Instruction Manual x1",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "mi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.mi.com/global/product/mi-led-desk-lamp-1s/",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/mi-led-desk-lamp-1s-MJTD01SYL.png",
+    "back_default": null,
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
+  }
+}

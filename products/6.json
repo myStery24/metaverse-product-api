@@ -1,0 +1,50 @@
+{
+  "_id": 6,
+  "index": "0006",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi smart pet fountain",
+  "description": "Product Features:\n• Circulating water spring\n• 4-stage filtering\n• Quiet-running\n• Smart home connection\n• Timely maintenance reminders (Require Mi Home/Xiaomi Home App)\n\nProduct Specifications:\n• External Dimension: 191 x 191 x 177mm\n• Capacity: 2L\n• Power Cord Length: 1.5m\n• Operating Temperature: 4 to 40°C",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "xiaomi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.mi.com/global/product/xiaomi-smart-pet-fountain/",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-smart-pet-fountain.png",
+    "back_default": null,
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_id": 8,
+  "index": "0008",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "mi air purifier 3h",
+  "description": "Product Features:\n• 380 m³/h PM CADR\n• True HEPA filter\n• High-precision laser PM sensor\n• OLED touch screen display\n• APP+AI smart voice control\n• A4 paper sized footprint\n\nProduct Specifications:\n• External Dimension: 240 x 240 x 520mm\n• Net Weight: Approximate 4.8kg\n• Effective Area: 26 to 45m²\n• Filter Lifetime: 6 to 12 month\n• Power Cord Length: 1.5m\n• Wi-Fi Connectivity: IEEE 802.8 b/g/n 2.4GHz\n\nPackage Contents:\n• Mi Air Purifier 3H x1\n• HEPA Filter x1\n• User Manual x1\n• Power Cord x1",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "mi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.mi.com/my/mi-air-purifier-3H/",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/mi-air-purifier-3h.png",
+    "back_default": "https://i01.appmifile.com/webfile/globalimg/products/pc/mi-air-purifier-3H/specs-02.jpg",
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
+  }
+}
