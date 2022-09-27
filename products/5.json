@@ -2,19 +2,19 @@
   "_id": 5,
   "index": "0005",
   "product_id": null,
-  "product_code": "Motion Activated Night Light 2 ELEXIAMMACTNL2",
+  "product_code": "TBC",
   "is_hidden": false,
   "quantity": null,
-  "name": "xiaomi motion activated night light 2",
-  "description": "3-in-1 smart light for lighting, motion detection and light detection.\n\nProduct Features:\n• Portable or standalone, Shine extra light wherever you need it\n• Innovate magnetic attraction design warm, soft light in the palm of your hand.\n• Rotates 360° for diffuse lighting.\n• Two adjustable brightness settings* - Low for soft, gentle lighting and High for bright, clear lighting\n• Ultra-low power consumption, Works for up to 360 days without charging\n• Built-in dual-sensor, 120° wide sensing area\n• 2800K warm yellow light, no visible flicker, no harmful blue light, Enhanced eye protection",
-  "srp": "59.00",
-  "promo_price": "59.00",
+  "name": "xiaomi hoto smart kitchen scale black QWCFC001",
+  "description": "Product Features:\n• 0.1g highly-precise sensor\n• Switch between 4 units of weight: g/ml/oz/lb: oz\n• Hand drip assistant feature (Require MI Home App)\n• Record delicious ingredients\n• All necessary functions into one button\n\nProduct Specifications:\n• External Dimension: 181.8 x 168 x 26.8mm\n• Net Weight: Approximate 342g\n• Battery: 3 AAA batteries\n• Wireless Connection: Bluetooth 4.0 (Approximate 8m transmission distance\n• Operating Temperature: 10 - 20°C\n• Storage Temperature: Between -10°C and 50°C\n\nRequirements for Equipment: Android 4.4 / iOS 8.0 and above, Bluetooth 4.0\n\nPackage Contents:\n• Xiaomi HOTO Smart Kitchen Scale Black QWCFC001 x1",
+  "srp": "0.00",
+  "promo_price": "0.00",
   "specs": [
     {
       "slot": 1,
       "spec": {
         "column": "brand",
-        "value": "mi"
+        "value": "hoto"
       }
     },
     {
@@ -28,24 +28,23 @@
       "slot": 3,
       "spec": {
         "column": "seller-sku",
-        "value": "ELEXIAMMACTNL2"
+        "value": "TBC"
       }
     },
     {
       "slot": 4,
       "spec": {
         "column": "warranty",
-        "value": "6 months local manufacturer warranty"
+        "value": "local manufacturer warranty"
       }
     }
   ],
-  "url": "https://www.gloo.com.my/Mi-Motion-Activated-Night-Light-2",
+  "url": "https://www.aliexpress.com/item/1005002788775748.html",
   "sprites": {
-    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-motion-activated-night-light-2.png",
-    "all_default": null,
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-hoto-smart-kitchen-scale-black-QWCFC001.png",
     "back_default": null,
-    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMMACTNL2_T11-1000x1000.jpg",
-    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMMACTNL2_T10-1000x1000.jpg",
-    "more_default": "https://www.gloo.com.my/image/catalog/02landingpage/ELEXIAMMACTNL2_LP.jpg"
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
   }
 }
