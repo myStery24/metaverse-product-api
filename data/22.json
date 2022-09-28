@@ -1,0 +1,50 @@
+{
+  "_id": 22,
+  "index": "0022",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": true,
+  "quantity": 0,
+  "name": "rally camera",
+  "description": "Product Features:\n• Ultra-HD imaging system\n• Logitech RightLight™ technology\n• Premium industrial design\n• Automatic camera control\n• Light/colour optimisation\n• Adaptive pan, tilt and zoom\n• Multiple installation options (Table or wall mount)\n• 4K recording and streaming\n• Plug-and-play easy\n\nProduct Specifications:\n• External Dimension: 182.5 x 152 x 152mm\n• Ultra-HD imaging system supports: 4K, 1440p, 1080p, 900p, 720p, and SD at 30fps | 1080p, 720p at 30fps and 60 fps\n• Operating Systems: Windows® 7, Windows 8.1 or Windows 10 | macOS 10.10 or higher\n• Compatibility and Certifications:\nPlug-and-play USB connectivity, Certified for Skype® for Business and Microsoft® Teams, Zoom® Certified, Fuze® Certified, Cisco® compatible | Compatible with Google Hangouts Meet™, BlueJeans®, BroadSoft®, GoToMeeting®, Vidyo®, and other video conferencing, recording, and broadcasting applications that support USB cameras\n\nPackage Contents:\n• Rally Camera x1 • Remote control x1 • USB 3.0 Type-C cable x1\n• Power adapter with regional plugs x1\n• Power splitter & case x1\n• Camera mount with mounting hardware x1\n• Documentation x1",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "logitech"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "graphite"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "2 years local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.logitech.com/en-my/products/video-conferencing/conference-cameras/rally-ultra-hd-ptz-camera.960-001226.html",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/logitech-rally-camera-960-001226.png",
+    "back_default": null,
+    "front_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/rally-camera/gallery/rally-gallery-1.png?v=1",
+    "side_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/rally-camera/gallery/rally-gallery-2.png?v=1",
+    "more_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/rally-camera/gallery/rally-gallery-4.png?v=1"
+  }
+}

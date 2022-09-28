@@ -1,0 +1,50 @@
+{
+  "_id": 19,
+  "index": "0019",
+  "product_id": null,
+  "product_code": "Box 3000 SYSJOI0BOX3000",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "joi box 3000 (i3-10100/8gb/256gb/dos)",
+  "description": "Product Features:\n• Process high quality digital media with synchronised playback\n• Supports dual display with 4K Ultra HD\n• Industrial grade signage, designed for long-term operation and function in mind\n• Run content seamlessly in just a few clicks\n• Running Microsoft Windows 10 Pro\n• Flexible placement (Included VESA mount that can mount behind the monitor, Provided stand that can put as tower on flat surface)\n\nProduct Specifications:\n• Intel Core i3-10100 Processor\n• 8GB DDR4 2666MHz (Dual channel support up to 64GB)\n• 256GB SATA III SSD (1x Key M (2280) with PCIe x4 and SATA3 for SSD, 1x SATA3 (6Gb/s))\n• Intel UHD Graphics 630\n• Supports dual display, 1x HDMI 1.4b, 1x DP 1.4a, 1x VGA\n• With Wi-Fi and Bluetooth\n• 19V/90W AC-DC power brick adapter x1\n• 2 Year Warranty\n\nPackage Contents:\n• JOI Box 3000 x1",
+  "srp": "2,299.00",
+  "promo_price": "2,299.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "JOI"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "SYSJOI0BOX3000"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "2 years local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/desktop/JOI-Box-3000-i3-10100-8GB-256GB-DOS",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/joi-box-3000.png",
+    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Desktop/SYSJOI0BOX3000_T3-1000x1000.jpg",
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Desktop/SYSJOI0BOX3000_T2-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Desktop/SYSJOI0BOX3000_T4-1000x1000.jpg",
+    "more_default": null
+  }
+}

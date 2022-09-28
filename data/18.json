@@ -1,0 +1,50 @@
+{
+  "_id": 18,
+  "index": "0018",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "joi smart sense",
+  "description": "Digital signage with AI multifunction kiosk.\n\nProduct Features:\n• Face recognition system with artificial intelligence to analyse customer information. Curate content with effective and relevant marketing advertisement.\n• Contactless temperature screening in various scenario detection. Suitable placement for indoor and outdoor.\n• Touchless motion gesture by detect and recognise user hand movements and control without physical contact.\n• Real-time monitoring in backend dashboard with precise data analysis and management.\n\nProduct Specifications:\n• Operating System: Windows 10\n• Processor: Intel® Core™ i7-11500U processor\n• Graphics: Intel® UHD Graphics\n• Display: 39.5\" FHD (1920x1080), 21.5\" (Upper Screen)\n• RAM: 16GB RAM\n• Storage: 256GB\n• 4G LTE, Wi-Fi Connectivity, Bluetooth Available\n• Camera: 2.0 HD Camera\n\n\nSupports:\n• USB 2.0 ports x2\n• USB 3.0 x2\n• VGA port x1\n• HDMI™ output port x1\n• Microphone jack x1\n• RJ-45 LAN port x1\n• DC-in jack x1",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "JOI"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.joi.com.my/Joi-Smart-Sense",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/joi-smart-sense.png",
+    "back_default": null,
+    "front_default": "https://www.joi.com.my/image/catalog/03product/JoiSmartSense.png",
+    "side_default": null,
+    "more_default": null
+  }
+}

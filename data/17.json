@@ -1,0 +1,50 @@
+{
+  "_id": 17,
+  "index": "0017",
+  "product_id": null,
+  "product_code": "SMT3000RMI2UC UPSAPC03RMI2UC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "apc smart-ups 3000va lcd rm 2u 230v with smartconnect SMT3000RMI2UC - black",
+  "description": "Product Features:\n• Intelligent and efficient network power protection from entry level to scalable runtime. Ideal UPS for servers, point-of-sale, routers, switches, hubs and other network devices.\n• APC SmartConnect: APC SmartConnect is a proactive remote UPS cloud monitoring feature that is accessible from any internet connected device\n• Save time with easy and convenient remote accessibility: Network manageable via serial, USB or optional ethernet. Includes Powerchute® Business Edition Software for convenient monitoring and control, safe operating system shutdown and innovative energy management capabilities.\n• Smarter productivity with ability to tailor to your specific application needs: Intuitive LCD interface provides clear information with the ability to configure the UPS locally with easy to use navigation keys. Over 15 different programmable settings including switched outlet group control allow for application specific settings, thresholds and notifications.\n• Avoids costly power problems by keeping your IT equipment and data safe and available: Network grade power conditioning protects from damaging surges and disruptive noise. Solid state automatic voltage regulation boosts low input voltage up to 30% and trims high voltage up to 12% without battery operation. Reliable battery back-up capacity to power through outages or gracefully shutdown systems.\n• Low operating and maintenance costs with high efficiency, proven reliability and intelligent battery management Patented green operating mode achieves efficiencies over 97%. Smart-ups was the first network UPS to be Energy Star certified. Intelligent battery management, pioneered by APC, maximizes battery performance and life through intelligent, precision temperature compensated charging. Dynamic battery replacement date indicator and automatic self tests insure battery reliability and warn in advance of needing replacement. Convenient, easy to connect, hot-swappable battery modules provide battery replacement without powering down. Designed and manufactured by APC for over 23 years, Smart-UPS is the world’s most trusted network UPS with over 25 million units sold.\n• Peace of mind that comes with full equipment compatibility and reliability of a leader Provides pure sine wave output which is recommended by server manufacturers using active power factor corrected (PFC) power supplies. Safety agency tested and approved means that you can deploy Smart-UPS with confidence that they meet or exceed the industry’s most rigorous standards\n• Warranty: 3 years repair or replace (excluding battery) and 2 years for battery\n\nPackage Contents:\n• APC Smart-UPS 3000VA LCD RM 2U 230V with SmartConnect SMT3000RMI2UC - Black x1\n• CD with software x1\n• Documentation CD x1\n• Rack mounting hardware x1\n• Rack Mounting support rails x1\n• USB cable x1",
+  "srp": "10,158.00",
+  "promo_price": "9,999.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "apc"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "UPSAPC03RMI2UC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "2 years local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/peripheral/APC-Smart-UPS-3000VA-LCD-RM-2U-230V-SmartConnect-SMT3000RMI2UC-Black",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/apc-smart-ups-3000va-lcd-rm-2u-230v-with-smartconnect-SMT3000RMI2UC-black.png",
+    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/UPSAPC03RMI2UC_T3-1000x1000.jpg",
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/UPSAPC03RMI2UC_T2-1000x1000.jpg",
+    "side_default": null,
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/UPSAPC03RMI2UC_LP.jpg"
+  }
+}

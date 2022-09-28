@@ -1,0 +1,50 @@
+{
+  "_id": 16,
+  "index": "0016",
+  "product_id": null,
+  "product_code": "BX1200MI-MS UPSAPC0X1200MI",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "apc back-ups 1200va, 230v, avr, universal sockets bx1200mi-ms-black",
+  "description": "Product Features:\n• APC Back-UPS BX series is a cost effective power protection solution for home and home office environments\n• Intelligent battery management: Maximizes battery performance, life, and reliability through intelligent, precision charging\n• Battery and surge protected outlets: Back up and protect your hardware and data during power outages, surges and spikes\n• Automatic Voltage Regulation (AVR): Instantly corrects incoming utility power without utilizing the battery, saving the battery for when it is needed most\n• Functional ease-of-use: Front panel LED green lights to easily tell the functional status\n• Network Protection: Safeguards your equipment and valuable files from “back door” surges traveling along data lines without sacrificing internet speed\n• Visibility and Manageability Software: In the event of an extended power outage, prevent potential data loss or corruption with PowerChute Personal Edition Software\n\nProduct Specifications:\n• Output Power Capacity: 650 Watts/1.2kVA\n• Output Connections: 4 Universal + 1 IEC 320 C13\n• Nominal Output Voltage: 230V\n• Nominal Input Voltage: 230V\n• Input Connections: IEC C14\n• Cord Length: 1.2meters\n• Topology: Line interactive\n• Surge Energy Rating: 273 Joules\n• Warranty: 2 years repair or replace\n\nPackage Contents:\n• APC Back-UPS 1200VA, 230V, AVR, Universal Sockets BX1200MI-MS-Black x1\n• User manual",
+  "srp": "750.00",
+  "promo_price": "629.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "apc"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "UPSAPC0X1200MI"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "2 years local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/peripheral/APC-Back-UPS-1200VA-230V-AVR-Universal-Sockets-BX1200MI-MS-Black",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/apc-back-ups-1200va-230v-avr-universal-sockets-bx1200mi-ms-black.png",
+    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/UPSAPC0X1200MI_T4-1000x1000.jpg",
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/UPSAPC0X1200MI_T3-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/UPSAPC0X1200MI_T2-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Pcpart/UPSAPC0X1200MI_LP.PNG"
+  }
+}

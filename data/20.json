@@ -1,0 +1,50 @@
+{
+  "_id": 20,
+  "index": "0020",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "logitech tap",
+  "description": "Product Features:\n• Comfortable 14° angle 10.1\" touch display\n• Anti-glare and oleophobic coating\n• 3.5mm headphone jack\n• Motion sensor\n• Bring instant content sharing via wireless or HDMI connections to video meetings rooms\n• Optional accessories: Table Mount, Riser Mount, Wall Mount, PC Mount, Logitech Swytch, Cat5e Kit, Logitech Strong USB\n\nProduct Specifications:\n• External Dimension: 58 x 244 x 179mm \n• Weight: 1.25kg\n• Touch Screen: 10.1\" diagonal screen with 14° display angle, Oleophobic and anti-glare coating 1280 x 800 resolution\n• Internal cable retention and strain relief system\n• Integrated ultrasonic speaker\n• Integrated PIR Motion Sensor\n• 100mm x 100mm VESA FDMI (Flat Display Mounting Interface)\n• Kensington Lock slots (2)\n\nSystem Requirements:\n• Windows® 10\n• Chrome OS™ 80 and higher\n• Logi CollabOS\n• USB 2.0, 3.0, or 3.1 Type A port\n\nPackage Contents:\ni) Tap Touch Controller Cat5e Kit:\n• Logitech Tap Receiver\n• Dongle Transceiver\n• 100-240v Power Supply with International Adaptor Set\n• 2.97 m Cat5e Cable\n• 7.0 m Cat5e Cable\n• HDMI 1.4a cable 2.0 m\n• VESA Mounting Screws (4)\n• Microfiber Cloth\n• Documentation\n\nii) Tap Touch Controller Logitech Strong USB 2.0 / 3.0 / 3.1 / 3.2 Cable 10 m\n• Type A (male) to Type C (male)\n• Aramid-reinforced\n• Plenum Rated\n• Eca / IEC 60332-1-2 Compliant\n• 20 mm Conduit friendly\n• HDMI 1.4a cable 2.0 m\n• Power adaptor with regional plugs (100-240v) 2.95 m\n• VESA Mounting Screws (4)\n• Microfiber Cloth\n• Documentation",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "logitech"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "graphite"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "2 years local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.logitech.com/en-my/products/video-conferencing/room-solutions/tap.939-001950.html",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/logitech-tap-939-001950.png",
+    "back_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/tap/tap-gallery-5.png?v=1",
+    "front_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/tap/tap-gallery-1.png?v=1",
+    "side_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/tap/tap-gallery-2.png?v=1",
+    "more_default": null
+  }
+}
