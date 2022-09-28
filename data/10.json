@@ -1,0 +1,50 @@
+{
+  "_id": 10,
+  "index": "0010",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi smart pet food feeder XWPF01MG",
+  "description": "Product Features:\n• Automatic feeding\n• Waterproof and fresh\n• Smooth dispensing\n• Smart pet feeding and refill reminders (Through Mi Home/Xiaomi Home app)\n\nProduct Specifications:\n• External Dimension: 311 x 180 x 387mm\n• Capacity: 3.6L\n• Net Weight: 3kg\n• Power Cord Length: 1.5m",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "xiaomi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.mi.com/my/product/xiaomi-smart-pet-food-feeder/",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-smart-pet-food-feeder-XWPF01MG.png",
+    "back_default": null,
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
+  }
+}

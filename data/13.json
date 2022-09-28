@@ -1,0 +1,50 @@
+{
+  "_id": 13,
+  "index": "0013",
+  "product_id": null,
+  "product_code": "Mop 2 Pro ELEXIAMM2PROBK",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi robot vacuum mop 2 pro (black)",
+  "description": "Product Features:\n• High-frequency sonic vibration mopping\n• Capable of mapping multiple floors\n• 5200mAh battery\n• 3000Pa suction\n• 4 suction power settings\n• 3 vacuum-mop modes\n\nProduct Specifications:\n• External Dimension: Φ353-96.5mm\n• Product Net Weight: 3.6kg\n• Rated Voltage: 14.4V\n• Nominal Battery Capacity: 5200mAh\n• Rated Power: 35.6W\n• Charging Voltage: 20V\n\nPackage Contents:\n• Vacuum-Mop 2 Pro (Black) x1\n• User manual x1\n• Dustbin x1\n• Main brush x1\n• Main brush cover x1\n• Side brush x1\n• Water tank (Mop pad installed) x1\n• Mop pad (For replacement) x1\n• Charging stand x1\n• Power cable x1\n• Side brush (For replacement) x1\n• Cleaning tool x1",
+  "srp": "1,499.00",
+  "promo_price": "1,499.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "xiaomi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "ELEXIAMM2PROBK"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "1 year local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/gadget/Xiaomi-Robot-Vacuum-Mop-2-Pro",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-robot-vacuum-mop-2-pro-black.png",
+    "back_default": null,
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMM2PROBK_T1-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAMM2PROBK_T3-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/ELEXIAMM2PROBK_LP01.jpg"
+  }
+}

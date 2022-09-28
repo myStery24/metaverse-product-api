@@ -1,0 +1,50 @@
+{
+  "_id": 11,
+  "index": "0011",
+  "product_id": null,
+  "product_code": "MAF02 ELEXIAM35MAF02",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi mi smart air fryer 3.5L MAF02",
+  "description": "Product Features:\n• OLED touch screen\n• Smart scheduling up to 24h\n• Double-layer non-stick coating\n• Continuous cooking up to 24h*\n\n*24h continuous cooking time can only be achieved at low temperatures. The higher the temperature gets, the shorter the cooking time becomes.\n\n*This function indicates that when the basket is pulled out, the heating pipe will be powered off and heating will be stopped.\n\nProduct Specifications:\n• Rated Voltage: 220-240V\n• Rated Frequency: 50-60Hz\n• Net Weight: 3.9kg\n• Gross Weight: 5.2kg\n• Rated Power: 1500W\n• Rated Volume: 3.5L\n• Basket Material: Alclad Metal\n\nPackage Contents:\n• Mi Smart Air Fryer x1\n• Flying plate x1\n• Grill x1\n• Instructions x1",
+  "srp": "359.00",
+  "promo_price": "359.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "xiaomi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "ELEXIAM35MAF02"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "1 year local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/Xiaomi-Mi-Smart-Air-Fryer-MAF02",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-smart-air-fryer-3.5L-MAF02.png",
+    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAM35MAF02_T3-1000x1000.jpg",
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAM35MAF02_T1-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Peripheral/ELEXIAM35MAF02_T2-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Peripheral/ELEXIAM35MAF02_LP.jpg"
+  }
+}

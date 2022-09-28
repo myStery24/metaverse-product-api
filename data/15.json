@@ -1,0 +1,50 @@
+{
+  "_id": 15,
+  "index": "0015",
+  "product_id": null,
+  "product_code": "LC27F390FHEXXM MONSAMS27F390F",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "samsung 27\" curve monitor LC27F390FHEXXM",
+  "description": "Product Features:\n• The most immersive viewing experience with world's most curved screen\n• Incredibly vibrant and darker blacks with bestinclass 3000:1 contrast ratio\n• Smooth game play with AMD Free sync and Game mode\n\nProduct Specifications:\n• Display Flat / Curved: Curved\n• Active Display Size (HxV) (mm): 597.89mm x 336.31mm\n• Screen Curvature: 1800R\n• Aspect Ratio: 16:9\n• Panel Type: VA\n• Brightness (Typical): 250cd/m2\n• Brightness (Min): 200cd/m2\n• Contrast Ratio Static: 3,000:1(Typ.)\n• Dynamic Contrast Ratio: Mega\n• Resolution: 1920 x 1080\n• Response Time: 4(GTG)\n• Refresh Rate: 60Hz\n\nPackage Contents:\n• Samsung 27\" LC27F390FHEXXM Monitor x1",
+  "srp": "769.00",
+  "promo_price": "629.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "samsung"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "MONSAMS27F390F"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/pc-part/monitor/27-monitor-27F390F",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/samsung-27-inch-curve-monitor-LC27F390FHEXXM.png",
+    "back_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T4-1000x1000.jpg",
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T1-1000x1000.jpg",
+    "side_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/MONSAMS27F390F_T5-1000x1000.jpg",
+    "more_default": "https://www.gloo.com.my/image/catalog/Landing%20Page/Pcpart/MONSAMS27F390F_LP.jpg"
+  }
+}

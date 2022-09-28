@@ -1,0 +1,50 @@
+{
+  "_id": 14,
+  "index": "0014",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "mi router 4c (white)",
+  "description": "Product Features:\n• 4 omnidirectional external antennas\n• 2x2 (Supports IEEE 802.11N protocol, maximum possible speed of 300Mbps)\n• 64MB DDR2 memory for quick processing and stable operation\n• Smart control via Mi Wi-Fi app\n\nProduct Specifications:\n• Processor: MT7628DA\n• ROM: 16MB NorFlash\n• Signal Band: 2.4Ghz\n\nPackage Contents:\n• Mi Router 4C x1\n• User manual x1",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "mi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.mi.com/global/mi-router-4c/",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/mi-router-4c-white.png",
+    "back_default": null,
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
+  }
+}
