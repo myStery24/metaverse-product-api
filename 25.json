@@ -1,0 +1,50 @@
+{
+  "_id": 25,
+  "index": "0025",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "rally speaker",
+  "description": "Product Features:\n• Clear and rich sound with Logitech RightSound™ technologies\n• Patent-pending suspension system eliminates vibration-induced camera shake and audio interference\n• Mini XLR cable connects to Rally Display Hub for both signal and power\n• Available accessories: Rally Mounting Kit includes two wall-mount brackets for Rally Speaker, plus cable retainers (x2) and mounting brackets for camera and hubs (x2)\n\nProduct Specifications:\n• External Dimension: 103 x 449 x 80mm\n• High-performance 76 mm driver with rare-earth magnet\n• Speaker volume 95 dB SPL @1 W, 100 dB SPL @7.5 W, both +/-2 dB at ½ meter\n• Distortion: 200 Hz–300 Hz <2.5%, 300 Hz–10 kHz < 1%@7.5 W\n• Speaker Sampling Rate: 48KHz\n\nPackage Contents:\n• Rally Speaker with 2.95 m Mini XLR cable (supports customer-supplied extension cables up to 3 m) x1\n• Documentation",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "logitech"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "graphite"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "2 years local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.logitech.com/en-my/products/video-conferencing/accessories/rally-speaker.960-001230.html",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/logitech-rally-speaker-960-001230.png",
+    "back_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/rally-speaker/gallery/rally-speaker-gallery-3.png?v=1",
+    "front_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/rally-speaker/gallery/rally-speaker-gallery-1.png?v=1",
+    "side_default": "https://resource.logitech.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/rally-speaker/gallery/rally-speaker-gallery-2.png?v=1",
+    "more_default": null
+  }
+}

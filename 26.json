@@ -1,0 +1,50 @@
+{
+  "_id": 26,
+  "index": "0026",
+  "product_id": null,
+  "product_code": "TBC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "xiaomi mi mijia humidifier 4l MJJSQ02LX (non-smart)",
+  "description": "Product Features:\n• Silver ion purifying mode (Antibacterial material, 99% antibacterial)\n• Directly add water from the top of the water tank\n• 4L capacity of water tank (~36 hours continuous mist)\n• Separation water tank makes cleaning more convenient\n• Top of the humidifier is about 14 cm, easy to clean\n• 3 mist of adjustment (Low grade mist, Mid-range mist, High-grade mist)\n•  Double protection secure system\n\nProduct Specifications:\n• External Dimension: 184.9 x 312.5mm\n• Product weight: 1.4kg\n• Rated Power: 17.5W\n• Power Voltage: AC 220V\n• Power Frequency: 50Hz\n• Material: silver ion\n• Humidification Volume: 280ml/h\n• Sound Power: ≤38dB\n• Mist Height: ≥50cm\n\nPackage Contents:\n• Mijia Humidifier 4L MJJSQ02LX x1\n• User manual x1\n• UK plugx1",
+  "srp": "0.00",
+  "promo_price": "0.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "mi"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "white"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "TBC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://shopee.com.my/Xiaomi-Smart-Humidifier-4L-MJJSQ04DY-MJJSQ02LX",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/xiaomi-mi-mijia-humidifier-4l-MJJSQ02LX-non-smart.png",
+    "back_default": null,
+    "front_default": null,
+    "side_default": null,
+    "more_default": null
+  }
+}
