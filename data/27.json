@@ -1,0 +1,50 @@
+{
+  "_id": 27,
+  "index": "0027",
+  "product_id": null,
+  "product_code": "QP-R40TC-B RACJOI0QPR40TC",
+  "is_hidden": false,
+  "quantity": null,
+  "name": "[PRE-ORDER] JOI Station 40 Bay AC QM-40ALT",
+  "description": "Product Features:\n• Design for storage, security and safety\n• Gigantic cabinet that you never experience before\n• Transparent Acrylic door\n• Premium quality of safety\n• UV light sterilizing\n• Super high speed charging experience\n• Easy Mobility\n\nProduct Specifications:\n• Multiple USB Charging: Yes\n\nPackage Contents:\n• JOI Station 40 bay 3-Pin Socket x1",
+  "srp": "10,288.00",
+  "promo_price": "10,288.00",
+  "specs": [
+    {
+      "slot": 1,
+      "spec": {
+        "column": "brand",
+        "value": "JOI"
+      }
+    },
+    {
+      "slot": 2,
+      "spec": {
+        "column": "colour-family",
+        "value": "black"
+      }
+    },
+    {
+      "slot": 3,
+      "spec": {
+        "column": "seller-sku",
+        "value": "RACJOI0QPR40TC"
+      }
+    },
+    {
+      "slot": 4,
+      "spec": {
+        "column": "warranty",
+        "value": "1 year local manufacturer warranty"
+      }
+    }
+  ],
+  "url": "https://www.gloo.com.my/[PRE-ORDER]-JOI-Station-40-Bay-AC-QM-40ALT",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/myStery24/metaverse-product-api/main/sprites/joi-station-40-bay-ac-qm-40alt.png",
+    "back_default": null,
+    "front_default": "https://www.gloo.com.my/image/cache/catalog/Images/Pcpart/RACJOI0QPR40TC_T1-1000x1000.jpg",
+    "side_default": null,
+    "more_default": null
+  }
+}
